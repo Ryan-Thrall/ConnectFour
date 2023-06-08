@@ -15,6 +15,9 @@
           <router-link :to="{ name: 'About' }" class="btn text-success lighten-30 selectable text-uppercase">
             About
           </router-link>
+          <router-link :to="{ name: 'Game' }" class="btn text-success lighten-30 selectable text-uppercase">
+            Play
+          </router-link>
         </li>
       </ul>
       <!-- LOGIN COMPONENT HERE -->
